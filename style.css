@@ -1,0 +1,138 @@
+nav{
+    background-color: black;
+    height: 100px;
+    width: 1690px;
+    margin-bottom: 10px;
+}
+ul{
+    display: flex;
+    flex-wrap: wrap; 
+    font-size: x-large;
+    margin-top: 10px;
+    margin-left: 520px;
+    padding-top: 20px;
+    
+}
+li{
+    padding: 10px;
+    color: brown;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.abc{
+    height: 50px;
+    width: 180px;
+    border: solid 2px;
+    border-color: white;
+    border-radius: 30%;
+    position: absolute;
+    right: 120px;
+    color: cyan;
+    font-size:larger;
+    text-align: center;
+    
+}
+.abc:hover{
+    background-color: whitesmoke;
+}
+.mj{
+    background-color: violet;
+    height: 100px;
+    width: 1300px;
+    position: absolute;
+    right: 150px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.js{
+    margin-top: 10px;
+    position: absolute;
+    top: 230px;
+    left: 260px;
+    height: 300px;
+    width: 400px;
+    border-radius: 10px;
+}
+.pq{
+    margin-top: 10px;
+    position: absolute;
+    top: 230px;
+    left: 695px;
+    height: 300px;
+    width: 400px;
+    border-radius: 10px;
+}
+.ab{
+    margin-top: 10px;
+    position: absolute;
+    top: 230px;
+    left: 1130px;
+    height: 300px;
+    width: 400px;
+    border-radius: 10px;
+}
+.cd{
+    margin-top: 10px;
+    position: absolute;
+    top: 570px;
+    left: 260px;
+    height: 300px;
+    width: 400px;
+    border-radius: 10px;
+}
+.ef{
+    margin-top: 10px;
+    position: absolute;
+    top: 570px;
+    left: 695px;
+    height: 300px;
+    width: 400px;
+    border-radius: 10px;
+}
+.gh{
+    margin-top: 10px;
+    position: absolute;
+    top: 570px;
+    left: 1130px;
+    height: 300px;
+    width: 400px;
+    border-radius: 10px;
+}
+.img:hover{
+    background: url(download1.jpg);
+}
+.jms{
+    margin-top: 800px;
+    padding-top: 10px;
+    background-color: antiquewhite;
+    height: 250px;
+    width: 1690px;
+    color: blue;
+}
+.xyze{
+    height: 50px;
+    width: 180px;
+    border: solid 2px;
+    border-color: white;
+    border-radius: 30%;
+    position: absolute;
+    right: 740px;
+    color: cyan;
+    font-size:larger;
+    text-align: center;
+    background-color: black;
+}
+.xyze:hover{
+    background-color:whitesmoke;
+}
+.foot{
+    background-color: black;
+    height: 400px;
+    width: 1690px;
+}
+.x{
+    height: 300px;
+    width: 200px;
+}
